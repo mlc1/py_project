@@ -1,0 +1,1 @@
+print('Hola amigo eres un gran aprendiz sigue trabajando para ser un gran profesional tu puedes lograrlo')
