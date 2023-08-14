@@ -1,4 +1,4 @@
-# Game project 
+# Game Project 
 
 Para jugar siga estas intrucciones en la terminal:
 ```sh
