@@ -2,7 +2,7 @@
 
 Para jugar siga estas intrucciones en la terminal:
 ```sh
-cd game
+cd game/game
 pyhton3 main.py
 ```
 # App Project  
