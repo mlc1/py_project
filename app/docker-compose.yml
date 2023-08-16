@@ -1,0 +1,8 @@
+#Definimos una etiqueta llamada servicios el nombre puede ser el que queramos
+services:
+  app-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes: 
+      - .:/app 
